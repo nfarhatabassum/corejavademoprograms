@@ -1,0 +1,7 @@
+com.branch.cs.Student
+com.branch.ec.Student
+
+public -> access across all the packages
+private -> can be accessed only within that class.
+protected -> can be accessed within class, sub classes of across all the packages
+default -> accessible only within that package
